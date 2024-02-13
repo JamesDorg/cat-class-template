@@ -9,13 +9,13 @@ class Cat():
         return "Meow"
 
 stella = Cat()
-stella.name("Stella")
-stella.age(7)
+stella.name = "Stella"
+stella.age = 7
 
 garfield = Cat()
-garfield.name("Garfield")
-garfield.age(50)
-garfield.color("Orange")
+garfield.name = "Garfield"
+garfield.age = 50
+garfield.color = "Orange"
 
 
 
